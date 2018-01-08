@@ -8,12 +8,12 @@ import java.io.PrintWriter;
 
 public class SaveConsoleDataTofile {
 
-	/*public static void main(String[] args) throws IOException {
+	public static void main(String[] args) throws IOException {
 
-		ReadDataFromFile dataFromFile = new ReadDataFromFile();
+		/*ReadDataFromFile dataFromFile = new ReadDataFromFile();
 		dataFromFile.writeFileData(System.getProperty("user.dir") + "//ConsoleInput.txt");
 		dataFromFile.readFileData(System.getProperty("user.dir") + "//ConsoleInput.txt");
-		System.out.println("");
-	}*/
+		System.out.println("");*/
+	}
 
 }
