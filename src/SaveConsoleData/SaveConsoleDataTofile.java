@@ -14,6 +14,7 @@ public class SaveConsoleDataTofile {
 		dataFromFile.writeFileData(System.getProperty("user.dir") + "//ConsoleInput.txt");
 		dataFromFile.readFileData(System.getProperty("user.dir") + "//ConsoleInput.txt");
 		System.out.println("");*/
+		//sdljdsf sdfjdsp//
 	}
 
 }
