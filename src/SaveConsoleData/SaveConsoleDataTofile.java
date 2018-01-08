@@ -10,10 +10,12 @@ public class SaveConsoleDataTofile {
 
 	public static void main(String[] args) throws IOException {
 
-		/*ReadDataFromFile dataFromFile = new ReadDataFromFile();
-		dataFromFile.writeFileData(System.getProperty("user.dir") + "//ConsoleInput.txt");
+		ReadDataFromFile dataFromFile = new ReadDataFromFile();
+		/*dataFromFile.writeFileData(System.getProperty("user.dir") + "//ConsoleInput.txt");
 		dataFromFile.readFileData(System.getProperty("user.dir") + "//ConsoleInput.txt");
 		System.out.println("");*/
+		//sdljdsf sdfjdsp//
+		//dsfdksj
 	}
 
 }
